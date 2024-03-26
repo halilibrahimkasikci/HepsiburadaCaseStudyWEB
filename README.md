@@ -38,6 +38,7 @@ Projenin çalıştırılması için aşağıdaki adımları izleyin:
 
 1. Projeyi bilgisayarınıza klonlayın.
 2. Projeyi açın ve gerekli bağımlılıkları yüklemek için `pom.xml` dosyasını kullanarak Maven bağımlılıklarını yükleyin.
+3. Proje OpenJDK 22 sürümü ile uyumludur ve çalışması için bu sürümün yüklü olması gerekmektedir.
 
 ## Geliştirme Ortamı
 
